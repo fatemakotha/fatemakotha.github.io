@@ -1,9 +1,7 @@
 # fatemakotha.github.io
 
-Hi I'm Fatema Alam Kotha. I'm currently learning abput computers and internet from the a friend of mine.
+Hi I'm Fatema Alam Kotha. I'm currently learning about programming and website designing. This is my portfolio website.
 
-If you're here that means you're someone interested about me. If you'd like to contact please go through my links:
-Email: fatema.alam3@northsouth.edu
-Facebook: https://www.facebook.com/kt047
+If you're already here that means you're someone who is interested to know about me. If you'd like to contact please send me an email at fatema.alam3@northsouth.edu.
 
-My website is currently uner construction.
+My website is currently under construction.
